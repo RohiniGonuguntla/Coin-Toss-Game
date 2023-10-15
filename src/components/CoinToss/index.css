@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.coin-toss-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  padding: 20px;
+}
+.image {
+  width: 250px;
+  height: 250px;
+}
+.counts {
+  display: flex;
+}
+.heading {
+  color: #a35200;
+  font-family: Roboto;
+}
+.paragraph {
+  color: #334155;
+  font-family: Roboto;
+}
+.button {
+  color: #a35200;
+  background-color: #f9d423;
+  font-family: Roboto;
+  border-width: 0px;
+  border-radius: 10px;
+  height: 35px;
+  width: 115px;
+}
+.para {
+  color: #475569;
+  font-family: Roboto;
+  margin: 10px;
+}
